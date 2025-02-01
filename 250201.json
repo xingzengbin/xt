@@ -481,11 +481,11 @@
       "key": "drpy_js_荐片",
       "name": "影视 | 荐片[js]",
       "type": 3,
-      "api": "./ext/drpy2.min.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/ext/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./ext/荐片.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/ext/荐片.js",
       "timeout": 30
     },
     {
@@ -493,7 +493,7 @@
       "name": "短剧网",
       "type": 3,
       "api": "csp_Duanjuw",
-      "jar": "./lib/xyq.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/lib/xyq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
